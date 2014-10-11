@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">com.ratanjee.shelfi.login</string>
+	<string name="app_name"><b>Shelfy</b></string>
+	<string name="app_package">com.shelfy</string>
+    <string name="welcome">Welcome %s</string>
+	<string name="logout_button">Logout</string>
+	<string name="fetch_contacts_button">Fetch Contacts</string>
+	<string name="fetch_accounts_button">Fetch Accounts</string>
+	<string name="clear_button">Clear</string>
+	
+	<string name="title">Title</string>
+	
+	<string name="facebook_app_id">736604493078929</string>
+</resources>

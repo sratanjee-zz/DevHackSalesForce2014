@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="remoteAccessConsumerKey">3MVG9QDx8IX8nP5R4g21aVIkH2eK4H1rKsQtc0zg4FgAigY72c_QpgWkYQb8cAmYu0Rl5eJoax7Ps5E56C7Hb</string>
+    <string name="oauthRedirectURI">sfdc://success</string>
+    <string-array name="oauthScopes">
+        <item>full</item>
+        <item>api</item>
+        <item>web</item>
+        <item>chatter_api</item>
+        <item>visualforce</item>
+        <item>openid</item>
+        <item>custom_permissions</item>
+        <item>refresh_token</item>
+        <item>offline_access</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources>
+
